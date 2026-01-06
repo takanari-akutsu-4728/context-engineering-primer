@@ -92,10 +92,10 @@ Issueに分解してください。結果をdocs/hands-on/ISSUES.mdに出力し�
 5. `docs/hands-on/ISSUES.md`に出力
 
 **確認項目**:
-- [ ] `docs/hands-on/ISSUES.md`が作成された
-- [ ] 各IssueにDoDが定義されている
-- [ ] Issueタイトルが`feat:`などのConventional Commits形式
-- [ ] 依存関係が整理されている
+- [x] `docs/hands-on/ISSUES.md`が作成された
+- [x] 各IssueにDoDが定義されている
+- [x] Issueタイトルが`feat:`などのConventional Commits形式
+- [x] 依存関係が整理されている
 
 ---
 
