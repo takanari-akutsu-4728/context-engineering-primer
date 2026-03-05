@@ -37,6 +37,8 @@ git log $BASE_BRANCH..HEAD
 
 ### 2. PR作成（設定ファイルを参照して自動化）
 
+PR本文には、.github/pull_request_template.md の内容をテンプレートとして利用してください。
+
 コマンド：
 ```powershell
 gh pr create --title "タイトル" --body "本文" \
