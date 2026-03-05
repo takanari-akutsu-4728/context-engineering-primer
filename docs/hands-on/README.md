@@ -23,25 +23,25 @@
 ## Step 1: 要件定義を読む
 
 ### やること
-- [ ] 要件定義を読んで理解する
+- [x] 要件定義を読んで理解する
 
 ### 手順
 
-[要件定義](./01-requirements.md)を開いて、以下を確認してください：
+[要件定義](./REQUIREMENTS.md)を開いて、以下を確認してください：
 
 **確認項目**:
-- [ ] 機能要件（FR-01〜FR-04）を読んだ
-- [ ] 非機能要件（NFR-01〜NFR-03）を読んだ
-- [ ] UI要件（ワイヤーフレーム）を確認した
-- [ ] 技術要件を確認した
-- [ ] ディレクトリ構成を確認した
+- [x] 機能要件（FR-01〜FR-04）を読んだ
+- [x] 非機能要件（NFR-01〜NFR-03）を読んだ
+- [x] UI要件（ワイヤーフレーム）を確認した
+- [x] 技術要件を確認した
+- [x] ディレクトリ構成を確認した
 
 ---
 
 ## Step 2: Deepwiki MCPで技術調査する
 
 ### やること
-- [ ] Deepwiki MCPを使って@ericblade/quagga2の使い方を調べる
+- [x] Deepwiki MCPを使って@ericblade/quagga2の使い方を調べる
 
 ### 手順
 
@@ -59,9 +59,9 @@ Deepwiki MCPを使って、@ericblade/quagga2 の使い方を調べてくださ�
 4. Reactでの使用方法を説明
 
 **確認項目**:
-- [ ] quagga2の基本的な使い方を理解した
-- [ ] Reactコンポーネントでの実装イメージが掴めた
-- [ ] 必要な設定項目を把握した
+- [x] quagga2の基本的な使い方を理解した
+- [x] Reactコンポーネントでの実装イメージが掴めた
+- [x] 必要な設定項目を把握した
 
 **ヒント**:
 - MCPサーバーは`.vscode/mcp.json`で設定済み
@@ -92,10 +92,10 @@ Issueに分解してください。結果をdocs/hands-on/ISSUES.mdに出力し�
 5. `docs/hands-on/ISSUES.md`に出力
 
 **確認項目**:
-- [ ] `docs/hands-on/ISSUES.md`が作成された
-- [ ] 各IssueにDoDが定義されている
-- [ ] Issueタイトルが`feat:`などのConventional Commits形式
-- [ ] 依存関係が整理されている
+- [x] `docs/hands-on/ISSUES.md`が作成された
+- [x] 各IssueにDoDが定義されている
+- [x] Issueタイトルが`feat:`などのConventional Commits形式
+- [x] 依存関係が整理されている
 
 ---
 
