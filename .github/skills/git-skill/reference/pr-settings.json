@@ -1,4 +1,4 @@
 {
-  "base": "develop",
-  "reviewers": ["takanari-akutsu-4728", "reviewer2"]
+  "base": "main",
+  "reviewers": ["takanari-akutsu-4728"]
 }
